@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\anim\\slide_in.xml"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\anim\\slide_out.xml"
+    }
+]

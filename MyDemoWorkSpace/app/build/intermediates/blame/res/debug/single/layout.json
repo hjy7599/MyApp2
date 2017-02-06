@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\layout\\list_dir.xml"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dir_item.xml",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\layout\\list_dir_item.xml"
+    }
+]

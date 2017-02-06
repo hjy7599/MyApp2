@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\hy.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-xxhdpi\\hy.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]

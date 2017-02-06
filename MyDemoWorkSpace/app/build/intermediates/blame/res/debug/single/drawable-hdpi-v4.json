@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_selected.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\MyDemo\\MyDemoWorkSpace\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dir_choose.png",
+        "source": "D:\\MyDemo\\MyDemoWorkSpace\\app\\src\\main\\res\\drawable-hdpi\\dir_choose.png"
+    }
+]
