@@ -31,7 +31,12 @@ import android.widget.Toast;
 
 import com.zhy.bean.ImageFloder;
 import com.zhy.imageloader.ListImageDirPopupWindow.OnImageDirSelected;
+<<<<<<< HEAD
 //update 004 master
+=======
+//update 001
+//update 002
+>>>>>>> 115fab5d1be3efe55558937063a4f00d3fd16f3c
 
 public class MainActivity extends Activity implements OnImageDirSelected
 {
