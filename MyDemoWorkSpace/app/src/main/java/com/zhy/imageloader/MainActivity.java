@@ -32,6 +32,7 @@ import android.widget.Toast;
 import com.zhy.bean.ImageFloder;
 import com.zhy.imageloader.ListImageDirPopupWindow.OnImageDirSelected;
 //update 001
+//update 002
 
 public class MainActivity extends Activity implements OnImageDirSelected
 {
