@@ -37,11 +37,15 @@ import com.zhy.imageloader.ListImageDirPopupWindow.OnImageDirSelected;
 //update 001
 //update 002
 
+<<<<<<< HEAD
 //update 005 in master
 
 //update 003
 //update 007 in master
 
+=======
+//update 008 in branch3
+>>>>>>> branch3
 
 public class MainActivity extends Activity implements OnImageDirSelected
 {
