@@ -35,6 +35,7 @@ import com.zhy.imageloader.ListImageDirPopupWindow.OnImageDirSelected;
 //update 002
 
 //update 008 in branch3
+//check name and email
 
 public class MainActivity extends Activity implements OnImageDirSelected
 {
