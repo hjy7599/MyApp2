@@ -34,6 +34,8 @@ import com.zhy.imageloader.ListImageDirPopupWindow.OnImageDirSelected;
 //update 001
 //update 002
 
+//update 008 in branch3
+
 public class MainActivity extends Activity implements OnImageDirSelected
 {
 	private ProgressDialog mProgressDialog;
